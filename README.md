@@ -10,9 +10,9 @@ This project implements a tool to optimize sequential paths for 2D printing shap
 	•	OR-Tools
 
 # How to Use
-	1.	Place your grayscale input image in the inputimage/ directory.
-	2.	Update the image_path variable in the script to point to your image.
-	3.	Run the script to generate:
+	•	Place your grayscale input image in the inputimage/ directory.
+	•	Update the image_path variable in the script to point to your image.
+	•	Run the script to generate:
 	•	An optimized path saved as a .txt file in the output/ directory.
 	•	A scatter plot and color-coded image of the optimized path.
 
